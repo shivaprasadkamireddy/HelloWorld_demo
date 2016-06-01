@@ -1,0 +1,24 @@
+html{font-size:20px; color:red;}
+
+.firstDiv{
+  font-size:2rem;
+}
+.secondDiv{
+  font-size:2rem;
+}
+.thirdDiv{
+  font-size:2rem;
+}
+
+.Alfa{
+  display:block;
+  font-size:2rem;
+}
+.Beta{
+  display:block;
+  font-size:2rem;
+}
+.Gamma{
+  display:block;
+  font-size:2rem;
+}
